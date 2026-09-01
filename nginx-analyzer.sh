@@ -1,4 +1,4 @@
-https://roadmap.sh/projects/nginx-log-analyser
+
 #!/bin/bash
 
 # Kiểm tra xem người dùng đã truyền vào file log chưa
